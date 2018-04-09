@@ -17,7 +17,6 @@ class calculator{
 	public float substract(float x, float y) {
 		return x-y;
 	}
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) {	
 	}
 }
